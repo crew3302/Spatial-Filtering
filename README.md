@@ -51,5 +51,5 @@ All the screenshots are available in the **output/** folder:
 ## 📧 Contact
 👤 **Muhammad Sohaib**  
 🔗 GitHub: [crew3302](https://github.com/crew3302)  
-📌 Project Link: [Medical-Image-Enhancement](https://github.com/crew3302/Medical-Image-Enhancement)
+📌 Project Link: [Spatial-Filtering](https://github.com/crew3302/Spatial-Filtering)
 
