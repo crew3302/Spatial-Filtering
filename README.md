@@ -1,5 +1,4 @@
 # Spatial Filtering in Computer Vision 
-**Spatial Filtering in Computer Vision**
 
 ## Project overview
 This assignment explores spatial filtering techniques for image sharpening and noise reduction.  
