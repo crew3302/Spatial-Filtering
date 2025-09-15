@@ -7,8 +7,3 @@ venv/
 # VSCode / OS
 .vscode/
 .DS_Store
-
-# dataset / output (if large)
-dataset/
-output_filtered/
-report/*.pdf
