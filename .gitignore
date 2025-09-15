@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# VSCode / OS
+.vscode/
+.DS_Store
+
+# dataset / output (if large)
+dataset/
+output_filtered/
+report/*.pdf
